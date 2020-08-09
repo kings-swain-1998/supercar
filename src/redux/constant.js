@@ -1,5 +1,0 @@
-export const GET_MODEL_ITEM = "GET_MODEL_TEM";
-
-// accessories 
-
-export const GET_ACCESSORIES_PRODUCTS = "GET_ACCESSORIES_PRODUCTS";

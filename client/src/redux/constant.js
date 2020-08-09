@@ -1,0 +1,26 @@
+export const GET_MODEL_ITEM = "GET_MODEL_TEM";
+
+// accessories 
+
+export const GET_ACCESSORIES_PRODUCTS = "GET_ACCESSORIES_PRODUCTS";
+
+// login
+export const OPEN_FORM_LOGIN = "OPEN_FORM_LOGIN";
+export const HIDE_FORM_LOGIN = "HIDE_FORM_LOGIN";
+export const LOGIN_SUCCES = "LOGIN_SUCCES";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT_SUCCES = "LOGOUT_SUCCES";
+export const GET_USER_SUCCES = "GET_USER_SUCCES";
+
+
+// cart 
+
+export const GET_CART_SUCCSES = "GET_CART_SUCCSES";
+
+
+// cart accessories 
+
+export const ADD_ITEM_ACCESSORIES_SUCCES = "ADD_ITEM_ACCESSORIES_SUCCES";
+export const GET_CART_ACCESS_SUCCSES = "GET_CART_ACCESS_SUCCSES";
+export const DELETE_CART_ACCESS_SUCCSES = "DELETE_CART_ACCESS_SUCCSES";
+

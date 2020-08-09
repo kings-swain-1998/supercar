@@ -1,0 +1,24 @@
+{
+    "userLocal": [
+        {
+            "id": 1,
+            "firstname": "Dũng",
+            "lastname": "Phạm",
+            "avatar": "https://cdn.iconscout.com/icon/free/png-512/rolls-royce-4-896237.png",
+            "userLocal": 1
+        },
+        {
+            "id": 2,
+            "firstname": "dung",
+            "lastname": "pham",
+            "avatar": "https://res.cloudinary.com/dj3vw4obq/image/upload/v1596048550/imagereact/u0mt7mob0tqi8kej5cvy.jpg",
+            "userLocal": 3
+        },
+        {
+            "userLocal": 2,
+            "firstname": "Dũng",
+            "lastname": "Phạm",
+            "avatar": "https://cdn.iconscout.com/icon/free/png-512/rolls-royce-4-896237.png"
+        }
+    ]
+}

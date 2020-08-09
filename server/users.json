@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "dungrobben6969@gmail.com",
+            "password": "bruno",
+            "firstname": "Dũng",
+            "lastname": "Phạm",
+            "avatar": "https://cdn.iconscout.com/icon/free/png-512/rolls-royce-4-896237.png"
+        },
+        {
+            "id": 2,
+            "email": "dungrobben6767@gmail.com",
+            "password": "bruno123",
+            "avatar": "https://cdn.iconscout.com/icon/free/png-512/rolls-royce-4-896237.png",
+            "firstname": "Dũng LOL",
+            "lastname": "Phạm LOL"
+        },
+        {
+            "id": 3,
+            "email": "nguyenthiquynhnd1998@gmail.com",
+            "password": "quynhcong",
+            "avatar": "https://res.cloudinary.com/dj3vw4obq/image/upload/v1596275044/imagereact/etzqenbhtjpqoaqlws7o.jpg",
+            "firstname": "Quỳnh",
+            "lastname": "Nguyễn"
+        },
+        {
+            "id": 4,
+            "email": "binzdapoet@gmail.com",
+            "password": "binzdapoet",
+            "avatar": "https://res.cloudinary.com/dj3vw4obq/image/upload/v1596275973/imagereact/ftx94gop3axzdssejzl5.jpg",
+            "firstname": "binz",
+            "lastname": "pham"
+        }
+    ]
+}

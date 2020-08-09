@@ -1,0 +1,27 @@
+.register {
+    height: 100vh;
+    background-color: #fff;
+    margin: auto;
+    margin-top: 95px;
+    &__form {
+        width: 60%;
+        // border: solid 1px rgb(107, 107, 107);
+        margin: auto;
+        border-radius: 5px;
+        padding: 1rem;
+        // height: 40%;
+    }
+    &__name {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 2rem;
+        padding-bottom: 1rem;
+    }
+    &__btn {
+        margin-top: 1rem !important;
+    }
+}
+
+.MuiFormGroup-root {
+    height: 65px;
+}
